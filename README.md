@@ -22,10 +22,6 @@ I am a passionate developer who loves to build amazing things using JavaScript, 
 
 ![Demo](https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif)
 
-## 🔥 GitHub Stats 🔥
-
-![GitHub Stats](react-portfolio-kappa-ruddy.vercel.appResources)
-
 ## 💬 Let's Connect!
 
 - 📫 Reach me at: muhilman606@gmail.com
