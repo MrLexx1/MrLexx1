@@ -1,36 +1,39 @@
-# This is a basic workflow to help you get started with Actions
+# 👋 Hello, I'm MrLexx1! 👋
 
-name: Ilman
+## 🎉 Welcome to my GitHub profile! 🎉
 
-# Controls when the workflow will run
-on:
-  # Triggers the workflow on push or pull request events but only for the "main" branch
-  push:
-    branches: [ "main" ]
-  pull_request:
-    branches: [ "main" ]
+I am a passionate developer who loves to build amazing things using JavaScript, React, and Node.js.
 
-  # Allows you to run this workflow manually from the Actions tab
-  workflow_dispatch:
+---
 
-# A workflow run is made up of one or more jobs that can run sequentially or in parallel
-jobs:
-  # This workflow contains a single job called "build"
-  build:
-    # The type of runner that the job will run on
-    runs-on: ubuntu-latest
+## 🚀 Technologies I'm working with:
 
-    # Steps represent a sequence of tasks that will be executed as part of the job
-    steps:
-      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-      - uses: actions/checkout@v4
+- 💻 JavaScript (ES6+), React, Node.js
+- ⚙️ MongoDB, Express, and REST APIs
+- 🔥 Firebase, Redux, and GraphQL
 
-      # Runs a single command using the runners shell
-      - name: Run a one-line script
-        run: echo Hello, world!
+## 🏆 My Achievements:
 
-      # Runs a set of commands using the runners shell
-      - name: Run a multi-line script
-        run: |
-          echo Add other actions to build,
-          echo test, and deploy your project.
+- 🏅 Over 50 repositories with contributions from various open-source projects.
+- 🎯 Published several NPM packages.
+- 🎓 Graduate in Computer Science
+
+## 🎥 Demo Animasi 🎥
+
+![Demo](https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif)
+
+## 🔥 GitHub Stats 🔥
+
+![GitHub Stats](react-portfolio-kappa-ruddy.vercel.appResources)
+
+## 💬 Let's Connect!
+
+- 📫 Reach me at: muhilman606@gmail.com
+- 🌐 Visit my portfolio: [Ilman.dev](react-portfolio-kappa-ruddy.vercel.appResources)
+
+---
+
+## 💡 Fun Fact
+
+Did you know I love coding in my spare time? 😄
+
