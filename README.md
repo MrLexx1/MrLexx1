@@ -1,3 +1,9 @@
+# 🎥 Demo Animasi Besar 🎥
+
+![Demo](https://media.giphy.com/media/xT0GqKdw4bNdKje0Ai/giphy.gif)
+
+---
+
 # 👋 Hello, I'm MrLexx1! 👋
 
 ## 🎉 Welcome to my GitHub profile! 🎉
@@ -18,9 +24,7 @@ I am a passionate developer who loves to build amazing things using JavaScript, 
 - 🎯 Published several NPM packages.
 - 🎓 Graduate in Computer Science
 
-## 🎥 Demo Animasi 🎥
-
-![Demo](https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif)
+---
 
 ## 💬 Let's Connect!
 
